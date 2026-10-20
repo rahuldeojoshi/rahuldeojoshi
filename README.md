@@ -5,12 +5,9 @@ Boston, MA · [career.rdj@gmail.com](mailto:career.rdj@gmail.com) · [Substack](
 
 ## About
 
-13+ years building production software across fintech, edtech, and enterprise.
-Currently exploring the intersection of LLMs and developer tooling —
-shipping agentic systems that do real work, not just demos.
+Software engineer building production software across fintech, edtech, and enterprise. Currently exploring the intersection of LLMs and developer tooling, shipping agentic systems that do real work, not just demos.
 
-Always happy to connect with engineers, builders, and teams working on
-interesting problems. Feel free to reach out.
+Always happy to connect with engineers, builders, and teams working on interesting problems. Feel free to reach out.
 
 ## Projects
 
